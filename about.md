@@ -5,7 +5,7 @@ title: About
 
 About
 
-#2 Welcome
+## Welcome
 
 Hey there! I'm Mwaura, delighted to meet you.
 
