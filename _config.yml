@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Professional Web Development
+title: Professional Web Developmer
 email: kimmwaus@gmail.com
 author: Mwaura Kimani
 copyright: "Unpublished Work (cleft) {currentYear} Mwaura Kimani"
