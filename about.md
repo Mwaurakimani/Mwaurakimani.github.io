@@ -3,8 +3,6 @@ layout: about
 title: About
 ---
 
-# About
-
 ## Welcome
 
 Hey there! I'm Mwaura, delighted to meet you.
