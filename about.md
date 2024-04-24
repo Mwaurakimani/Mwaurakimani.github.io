@@ -26,6 +26,7 @@ Ready to embark on a web adventure together? Drop me a line! Whether it's brains
 ## Contact
 
 Email: kimmwaus@gmail.com  
+
 Call: +2547 1944 5697
 
 Let's collaborate and bring your online aspirations to life! 💻✨
