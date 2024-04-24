@@ -24,9 +24,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: Professional Web Development
+email: kimmwaus@gmail.com
+author: Mwaura Kimani
+copyright: "Unpublished Work (cleft) {currentYear} {author}"
+description: >- # this means to ignore newlines until "baseurl:"
+  I specialize in crafting high-quality web applications that empower organizations to seize a lead and 
+  market advantage through cutting-edge web technologies. With a focus on delivering impactful solutions, 
+  I leverage the latest tools and strategies to elevate user experiences and drive business growth. 
+  Let us collaborate to transform your digital presence and unlock new opportunities.
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
